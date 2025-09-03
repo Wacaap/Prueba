@@ -1,4 +1,4 @@
-# Prueba
+# Primera prueba en GitHub
 Repositorio de prueba en github
 
 ## Descripción
