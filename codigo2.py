@@ -1,2 +1,2 @@
 nombre = "Cristian"
-print(f"Hola {nombre})
+print(f"Hola {nombre}")
